@@ -9,19 +9,19 @@
 <p align="center">POS (Point of Sale System) built with ReactJS</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jeancabral/react-pdv">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AlexandreAD/react_pdv">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jeancabral/react-pdv">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexandreAD/react_pdv">
 
-  <a href="https://github.com/jeancabral/react-pdv/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jeancabral/react-pdv">
+  <a href="https://github.com/AlexandreAD/react_pdv/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AlexandreAD/react_pdv">
   </a>
 
-  <a href="https://github.com/jeancabral/react-pdv/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/jeancabral/react-pdv">
+  <a href="https://github.com/AlexandreAD/react_pdv/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issuesAlexandreAD/react_pdv">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/jeancabral/react-pdv">
+  <img alt="GitHub" src="https://img.shields.io/github/license/AlexandreAD/react_pdv">
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/?.git && cd react-pdv
+$ git clone https://github.com/AlexandreAD/react_pdv.git && cd react-pdv
 ```
 
 **Follow the steps below**
@@ -76,8 +76,11 @@ $ yarn start
 
 ## Contributors
 
-<a href="https://github.com/AlexandreAD">
-<img src="https://avatars.githubusercontent.com/u/69159715?s=40&v=4" width="75px">
+<a href="https://twiiter.com/jeancabral">
+<img src="https://avatars1.githubusercontent.com/u/2077886?s=460&v=4" width="75px">
+</a>
+<a href="https://github.com/pablohenriqueop">
+<img src="https://avatars2.githubusercontent.com/u/28938150?s=460&u=dda791c5809c0c180da7d999ef9b83ecd4401f17&v=4" width="75px">
 </a>
 
 ## 🤔 How to contribute
@@ -88,14 +91,14 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork AlexandreAD/react_pdv
+$ gh repo fork jeancabral/react-pdv
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd react_pdv
+$ git clone your-fork-url && cd react-pdv
 
 # Create a branch with your feature
 $ git checkout -b my-feature
@@ -114,3 +117,5 @@ After your pull request is merged, you can delete your branch
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+Made with 💜 by Jean 👋 [See my linkedin](https://www.linkedin.com/in/jeancabralbr//)
