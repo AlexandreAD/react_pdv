@@ -36,7 +36,7 @@
 
 - <p style="color: red;">POS (Point of Sale System) built with ReactJS</p>
 
-- 
+-
 
 <h1 align="center">
 	<img alt="Mockup" width="800px" src=".github/mockup.png" width="200px" />
@@ -76,11 +76,8 @@ $ yarn start
 
 ## Contributors
 
-<a href="https://twiiter.com/jeancabral">
-<img src="https://avatars1.githubusercontent.com/u/2077886?s=460&v=4" width="75px">
-</a>
-<a href="https://github.com/pablohenriqueop">
-<img src="https://avatars2.githubusercontent.com/u/28938150?s=460&u=dda791c5809c0c180da7d999ef9b83ecd4401f17&v=4" width="75px">
+<a href="https://github.com/AlexandreAD">
+<img src="https://avatars.githubusercontent.com/u/69159715?v=4" width="75px">
 </a>
 
 ## 🤔 How to contribute
@@ -91,14 +88,14 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork jeancabral/react-pdv
+$ gh repo fork AlexandreAD/react_pdv
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd react-pdv
+$ git clone your-fork-url && cd react_pdv
 
 # Create a branch with your feature
 $ git checkout -b my-feature
@@ -117,5 +114,3 @@ After your pull request is merged, you can delete your branch
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Made with 💜 by Jean 👋 [See my linkedin](https://www.linkedin.com/in/jeancabralbr//)
